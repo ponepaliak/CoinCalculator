@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CoinCalculator
 {
-    interface ICoinCalculator
+    public interface ICoinCalculator
     {
         public List<string> CurrenicesList { set; }
         public Func<string, string, float> CurrenciesRateFinder { set; }
