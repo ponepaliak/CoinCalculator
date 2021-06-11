@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinCalculator", "CoinCalculator\CoinCalculator.csproj", "{FCBA5917-796E-45DA-87C8-C15EEAA1770A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCBA5917-796E-45DA-87C8-C15EEAA1770A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBA5917-796E-45DA-87C8-C15EEAA1770A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBA5917-796E-45DA-87C8-C15EEAA1770A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBA5917-796E-45DA-87C8-C15EEAA1770A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDCACB09-F4D3-49FF-BD12-D4F48810F393}
+	EndGlobalSection
+EndGlobal
